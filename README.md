@@ -1,5 +1,7 @@
 # MyWill
 
+## Plan 1
+
 - Making sure those card spreads are the same for all the people playing the every day I am shuffle game.
 
 - Here’s a playful yet structured response to ensure fairness in the "**Every Day I’m Shuffle Game**" and ensure that **card spreads remain consistent** for all players:
@@ -44,3 +46,7 @@ AKA, they are just the card dealers.
 
 The way to make you win is to place same amount of bet on each side: red or black.
 ![Still rigged](https://media.assettype.com/analyticsinsight%2Fimport%2Fwp-content%2Fuploads%2F2022%2F10%2FPicture33-1.jpg?w=1024&auto=format%2Ccompress&fit=max)
+
+## Plan 2
+
+Haunt a casino.
